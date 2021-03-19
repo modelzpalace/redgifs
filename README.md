@@ -2,7 +2,7 @@
 <html>
 <body>
   
-<video>
+<video controls>
 <source src="https://thumbs2.redgifs.com/ThoseRepentantElk.mp4" type="video/mp4">
 </video>
 <video>
